@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod, abstractproperty
 
 
 class Config:
-    MY_TOKEN = 'Mjc1MjE2NDAyMjU4OTg0OTYy.Yf75jg.sKKv0AWyNW4dfHDlXrvTrd0CkYQ'
+    MY_TOKEN = ''
     API_DISCORD = 'https://discord.com/api/v9'
     TARGETS = {
         'IVAN':      '762631268805902338', 
